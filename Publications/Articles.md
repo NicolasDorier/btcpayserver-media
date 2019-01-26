@@ -22,6 +22,7 @@ This list includes articles from media outlets and blogs. For articles and guide
 * 2018/Dec/10 - [The Rise Of The All-In-One Bitcoin & Lightning Node](https://coinjournal.net/the-rise-of-the-all-in-one-bitcoin-lightning-node/) - coinjournal.net
 * 2018/Oct/23 - [Bitcoin payment gateways – BitPay alternatives to accept Bitcoin payments](https://coinvigilance.com/bitcoin-payment-gateways-bitpay-alternatives-to-accept-bitcoin-payments/) - coinvigilance.com
 * 2018/Oct/03 - [Nueva interfaz permite instalar BTCPay Server en minutos](https://www.criptonoticias.com/infraestructura/nueva-interfaz-permite-instalar-btcpay-server-minutos/) - criptonoticias.com
+* 2018/July/03 -[Building on Bitcoin - How to make everyone use their own full node](https://www.youtube.com/watch?v=0UiMhpz9eLA)
 * 2018/Aug/28 - [BTCPay Server Bitcoin Payment Processor Looks To Oust Coinbase And BitPay](https://bitcoinexchangeguide.com/btcpay-server-bitcoin-payment-processor-looks-to-oust-coinbase-and-bitpay/) - bitcoinexchangeguide.com
 * 2018/Aug/19 - [You Can Now Process Bitcoin (BTC) Payments Independently With Only $6 Per Month Via BTCPay Server](https://oracletimes.com/you-can-now-process-bitcoin-btc-payments-independently-with-only-6-per-month-via-btcpay-server/) - oracletimes.com
 * 2018/Aug/19 - [Разработчики BTCPay Server предложили использовать полные ноды биткоина для процессинга платежей](https://forklog.com/razrabotchiki-btcpay-server-predlozhili-ispolzovat-polnye-nody-bitkoina-dlya-protsessinga-platezhej/) - forklog.com
